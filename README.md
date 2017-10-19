@@ -1,2 +1,2 @@
-Snippets and examples from the *Go Programming Language* book.
+Snippets and examples from the Donovan and Kernighan *Go Programming Language* book.
 
